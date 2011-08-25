@@ -1,7 +1,7 @@
 Transparent Web Browser
 =======================
 
-![TransparentWebView Screenshot](https://trac.mediamatic.nl/devcamps/attachment/wiki/TransparentWebView/TransparentWebView_Screenshot.jpg)
+![TransparentWebView Screenshot](https://trac.mediamatic.nl/devcamps/raw-attachment/wiki/TransparentWebView/TransparentWebView_Screenshot.jpg)
 
 The TransparentWebView is a transparent web browser for Mac OS X. That means that if the visited web page is without a background color, or the background color is set to transparent, the complete browser window will be see-through.
 
